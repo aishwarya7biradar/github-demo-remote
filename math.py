@@ -1,9 +1,13 @@
+# Add implementation
 def add(x,y):
 	pass
+# Subtract implementation
 def subtract(x,y):
-	pass                
+	pass      
+# Multiply implementation          
 def multiply(x,y):
-	pass                
+	pass    
+# Divide implementation            
 def divide(x,y):
 	pass
 
